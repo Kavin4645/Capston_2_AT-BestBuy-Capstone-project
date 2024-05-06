@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="8" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-05T22:28:17 IST" name="Suite" finished-at="2024-05-05T22:32:35 IST" duration-ms="258250">
+    <groups>
+    </groups>
+    <test started-at="2024-05-05T22:28:17 IST" name="Test" finished-at="2024-05-05T22:32:35 IST" duration-ms="258250">
+      <class name="TestCases.TC_03_MainMenuTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TC_03_MainMenuTest@12468a38]" started-at="2024-05-05T22:28:17 IST" name="setup" finished-at="2024-05-05T22:28:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:TestCases.TC_03_MainMenuTest@12468a38]" started-at="2024-05-05T22:28:57 IST" name="testDetails" finished-at="2024-05-05T22:28:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="start()[pri:0, instance:TestCases.TC_03_MainMenuTest@12468a38]" started-at="2024-05-05T22:28:57 IST" name="start" finished-at="2024-05-05T22:28:59 IST" duration-ms="2093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="TC_03_MainMenuTest()[pri:3, instance:TestCases.TC_03_MainMenuTest@12468a38]" started-at="2024-05-05T22:28:59 IST" name="TC_03_MainMenuTest" finished-at="2024-05-05T22:29:09 IST" duration-ms="9198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03_MainMenuTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.TC_03_MainMenuTest@12468a38]" started-at="2024-05-05T22:29:09 IST" name="close" finished-at="2024-05-05T22:29:09 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.TC_03_MainMenuTest -->
+      <class name="TestCases.TC_01_SelectCountryTest">
+        <test-method is-config="true" signature="StartReport()[pri:0, instance:TestCases.TC_01_SelectCountryTest@4fb61f4a]" started-at="2024-05-05T22:28:17 IST" name="StartReport" finished-at="2024-05-05T22:28:17 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartReport -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TC_01_SelectCountryTest@4fb61f4a]" started-at="2024-05-05T22:28:17 IST" name="setup" finished-at="2024-05-05T22:28:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:TestCases.TC_01_SelectCountryTest@4fb61f4a]" started-at="2024-05-05T22:28:17 IST" name="testDetails" finished-at="2024-05-05T22:28:17 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="start()[pri:0, instance:TestCases.TC_01_SelectCountryTest@4fb61f4a]" started-at="2024-05-05T22:28:17 IST" name="start" finished-at="2024-05-05T22:28:20 IST" duration-ms="3244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="TC_01_SelectCountryTest()[pri:1, instance:TestCases.TC_01_SelectCountryTest@4fb61f4a]" started-at="2024-05-05T22:28:20 IST" name="TC_01_SelectCountryTest" finished-at="2024-05-05T22:28:40 IST" duration-ms="19557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_SelectCountryTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.TC_01_SelectCountryTest@4fb61f4a]" started-at="2024-05-05T22:28:40 IST" name="close" finished-at="2024-05-05T22:28:40 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:TestCases.TC_01_SelectCountryTest@4fb61f4a]" started-at="2024-05-05T22:32:35 IST" name="endReport" finished-at="2024-05-05T22:32:35 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- TestCases.TC_01_SelectCountryTest -->
+      <class name="TestCases.TC_08_CheckOutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TC_08_CheckOutTest@5b239d7d]" started-at="2024-05-05T22:28:17 IST" name="setup" finished-at="2024-05-05T22:28:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:TestCases.TC_08_CheckOutTest@5b239d7d]" started-at="2024-05-05T22:30:29 IST" name="testDetails" finished-at="2024-05-05T22:30:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="start()[pri:0, instance:TestCases.TC_08_CheckOutTest@5b239d7d]" started-at="2024-05-05T22:30:29 IST" name="start" finished-at="2024-05-05T22:30:30 IST" duration-ms="1655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="TC_07_CheckOutTest()[pri:8, instance:TestCases.TC_08_CheckOutTest@5b239d7d]" started-at="2024-05-05T22:30:30 IST" name="TC_07_CheckOutTest" finished-at="2024-05-05T22:32:24 IST" duration-ms="113919" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='number']' (tried for 0 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='number']' (tried for 0 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at UtilsBB.UtilsBestBuy.waitExplicit(UtilsBestBuy.java:88)
+at UtilsBB.UtilsBestBuy.clickOn(UtilsBestBuy.java:138)
+at Class.CheckOutClass.carddetails(CheckOutClass.java:91)
+at TestCases.TC_08_CheckOutTest.TC_07_CheckOutTest(TC_08_CheckOutTest.java:22)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='number']"}
+  (Session info: chrome=124.0.6367.119)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d514fb9c1346687789ba74d5737750f, findElement {value=//input[@id='number'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.119, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\kavin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51231}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51231/devtoo..., se:cdpVersion: 124.0.6367.119, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1d514fb9c1346687789ba74d5737750f
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy16.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:304)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:287)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+... 34 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_07_CheckOutTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.TC_08_CheckOutTest@5b239d7d]" started-at="2024-05-05T22:32:24 IST" name="close" finished-at="2024-05-05T22:32:24 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.TC_08_CheckOutTest -->
+      <class name="TestCases.TC_06_ByDepartmentTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TC_06_ByDepartmentTest@5876a9af]" started-at="2024-05-05T22:28:17 IST" name="setup" finished-at="2024-05-05T22:28:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:TestCases.TC_06_ByDepartmentTest@5876a9af]" started-at="2024-05-05T22:29:36 IST" name="testDetails" finished-at="2024-05-05T22:29:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="start()[pri:0, instance:TestCases.TC_06_ByDepartmentTest@5876a9af]" started-at="2024-05-05T22:29:36 IST" name="start" finished-at="2024-05-05T22:29:38 IST" duration-ms="2033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="TC_06_ByDepartmentTest()[pri:6, instance:TestCases.TC_06_ByDepartmentTest@5876a9af]" started-at="2024-05-05T22:29:38 IST" name="TC_06_ByDepartmentTest" finished-at="2024-05-05T22:30:03 IST" duration-ms="24775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_06_ByDepartmentTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.TC_06_ByDepartmentTest@5876a9af]" started-at="2024-05-05T22:30:03 IST" name="close" finished-at="2024-05-05T22:30:03 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.TC_06_ByDepartmentTest -->
+      <class name="TestCases.TC_07_ByBrandTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TC_07_ByBrandTest@7ec7ffd3]" started-at="2024-05-05T22:28:17 IST" name="setup" finished-at="2024-05-05T22:28:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:TestCases.TC_07_ByBrandTest@7ec7ffd3]" started-at="2024-05-05T22:30:03 IST" name="testDetails" finished-at="2024-05-05T22:30:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="start()[pri:0, instance:TestCases.TC_07_ByBrandTest@7ec7ffd3]" started-at="2024-05-05T22:30:03 IST" name="start" finished-at="2024-05-05T22:30:05 IST" duration-ms="1640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="TC_04_ByBrandTest()[pri:7, instance:TestCases.TC_07_ByBrandTest@7ec7ffd3]" started-at="2024-05-05T22:30:05 IST" name="TC_04_ByBrandTest" finished-at="2024-05-05T22:30:28 IST" duration-ms="23216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_04_ByBrandTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.TC_07_ByBrandTest@7ec7ffd3]" started-at="2024-05-05T22:30:28 IST" name="close" finished-at="2024-05-05T22:30:29 IST" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.TC_07_ByBrandTest -->
+      <class name="TestCases.TC_05_ByPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TC_05_ByPageTest@59309333]" started-at="2024-05-05T22:28:17 IST" name="setup" finished-at="2024-05-05T22:28:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="start()[pri:0, instance:TestCases.TC_05_ByPageTest@59309333]" started-at="2024-05-05T22:29:20 IST" name="start" finished-at="2024-05-05T22:29:21 IST" duration-ms="1636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:TestCases.TC_05_ByPageTest@59309333]" started-at="2024-05-05T22:29:20 IST" name="testDetails" finished-at="2024-05-05T22:29:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method signature="TC_05_ByPageTest()[pri:5, instance:TestCases.TC_05_ByPageTest@59309333]" started-at="2024-05-05T22:29:21 IST" name="TC_05_ByPageTest" finished-at="2024-05-05T22:29:36 IST" duration-ms="14912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_05_ByPageTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.TC_05_ByPageTest@59309333]" started-at="2024-05-05T22:29:36 IST" name="close" finished-at="2024-05-05T22:29:36 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.TC_05_ByPageTest -->
+      <class name="TestCases.TC_04_BottamMenuValidateTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TC_04_BottamMenuValidateTest@1aa7ecca]" started-at="2024-05-05T22:28:17 IST" name="setup" finished-at="2024-05-05T22:28:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:TestCases.TC_04_BottamMenuValidateTest@1aa7ecca]" started-at="2024-05-05T22:29:09 IST" name="testDetails" finished-at="2024-05-05T22:29:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="start()[pri:0, instance:TestCases.TC_04_BottamMenuValidateTest@1aa7ecca]" started-at="2024-05-05T22:29:09 IST" name="start" finished-at="2024-05-05T22:29:11 IST" duration-ms="2188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="TC_04_BottamMenuValidateTest()[pri:4, instance:TestCases.TC_04_BottamMenuValidateTest@1aa7ecca]" started-at="2024-05-05T22:29:11 IST" name="TC_04_BottamMenuValidateTest" finished-at="2024-05-05T22:29:19 IST" duration-ms="8525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_04_BottamMenuValidateTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.TC_04_BottamMenuValidateTest@1aa7ecca]" started-at="2024-05-05T22:29:19 IST" name="close" finished-at="2024-05-05T22:29:20 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.TC_04_BottamMenuValidateTest -->
+      <class name="TestCases.TC_09_BrokenLinkValidationTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TC_09_BrokenLinkValidationTest@6572421]" started-at="2024-05-05T22:28:17 IST" name="setup" finished-at="2024-05-05T22:28:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="brokenLinkBestbuy()[pri:9, instance:TestCases.TC_09_BrokenLinkValidationTest@6572421]" started-at="2024-05-05T22:32:24 IST" name="brokenLinkBestbuy" finished-at="2024-05-05T22:32:35 IST" duration-ms="10755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brokenLinkBestbuy -->
+      </class> <!-- TestCases.TC_09_BrokenLinkValidationTest -->
+      <class name="TestCases.TC_02_AccountLoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TC_02_AccountLoginTest@9f116cc]" started-at="2024-05-05T22:28:17 IST" name="setup" finished-at="2024-05-05T22:28:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:TestCases.TC_02_AccountLoginTest@9f116cc]" started-at="2024-05-05T22:28:40 IST" name="testDetails" finished-at="2024-05-05T22:28:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="start()[pri:0, instance:TestCases.TC_02_AccountLoginTest@9f116cc]" started-at="2024-05-05T22:28:40 IST" name="start" finished-at="2024-05-05T22:28:42 IST" duration-ms="2465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="TC_02_AccountLoginTest()[pri:2, instance:TestCases.TC_02_AccountLoginTest@9f116cc]" started-at="2024-05-05T22:28:42 IST" name="TC_02_AccountLoginTest" finished-at="2024-05-05T22:28:57 IST" duration-ms="14835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_AccountLoginTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.TC_02_AccountLoginTest@9f116cc]" started-at="2024-05-05T22:28:57 IST" name="close" finished-at="2024-05-05T22:28:57 IST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.TC_02_AccountLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
